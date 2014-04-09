@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 O17w Prelaunch Signup
 =========
 
@@ -138,3 +139,7 @@ License
 -------
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+=======
+o17w-prelaunch-signup
+=====================
+>>>>>>> 4a02c0e64145fd2c594453b924bb26f9f4f4a61d
